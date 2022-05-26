@@ -218,4 +218,4 @@ Here are some ideas to get you started:
 
 <!-- <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" /> -->
 
-![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/footer.png)
+<!-- ![](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/footer.png) -->
