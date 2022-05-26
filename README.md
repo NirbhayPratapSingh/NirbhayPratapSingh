@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/header_.png)
+![image]([https://raw.githubusercontent.com/lionelsamrat10/lionelsamrat10/main/header_.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fjavascript.plainenglish.io%2Fwhy-using-the-mern-stack-is-a-popular-start-up-app-idea-87a4a0e8ebbf&psig=AOvVaw0Uvtu7FTgItMCw8-HpP_OD&ust=1653644763719000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCODLq_fw_PcCFQAAAAAdAAAAABAD))
 
 <h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nirbhay Pratap Singh</h1>
 <h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.</h5>
