@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 <h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.</h5>
 
 
-![age](https://img.shields.io/badge/age-23-blue)
-![living](https://img.shields.io/badge/living-Pune,Maharashtra-maroon)
+![age](https://img.shields.io/badge/age-24-blue)
+![living](https://img.shields.io/badge/living-Jaipur,Rajasthan-maroon)
 ![focus](https://img.shields.io/badge/focus-SoftwareDevelopment-teal)
 =============================
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=flat&logo=linkedin&logoColor=lightblue&color=crimson)](https://www.linkedin.com/in/nirbhay-pratap-singh-689580192/)
