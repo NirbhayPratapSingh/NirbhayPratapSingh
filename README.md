@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![image](https://miro.medium.com/max/1400/0*GKIyAWHbKbANm7d9.png)
+![image](https://www.technology4u.in/wp-content/uploads/2021/07/epv55hgtsfi8csprpj9u.jpg)
 
 <h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Nirbhay Pratap Singh</h1>
 <h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.</h5>
