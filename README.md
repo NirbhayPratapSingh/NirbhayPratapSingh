@@ -120,10 +120,10 @@ Here are some ideas to get you started:
       </a>
       <br>CSS
     </td> -->
-    <td align="center"  width="96">
+<!--     <td align="center"  width="96">
       <a href="https://www.linux.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
-      </a>
+      </a> -->
       <br>Linux
     </td>
     <td align="center" width="96">
