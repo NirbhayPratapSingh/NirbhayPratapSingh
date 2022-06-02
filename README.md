@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![image](https://pbs.twimg.com/media/DQlOsZyVAAAXfAx.jpg)
 
 <h1 align="center">Hello Folks!! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I am Nirbhay Pratap Singh</h1>
-<h5 align="center">Aspiring Full-Stack-Web Developer | Learning MERN Stack at @Masai School.</h5>
+<h5 align="center">Full-Stack-Web Developer</h5>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=NirbhayPratapSingh&label=Profile%20views&color=0e75b6&style=flat" alt="NirbhayPratapSingh" />
 <a href="https://github.com/NirbhayPratapSingh?tab=followers"><img src="https://img.shields.io/github/followers/NirbhayPratapSingh?label=Followers&style=social" alt="GitHub Badge"></a></p>
