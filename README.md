@@ -127,7 +127,6 @@ Here are some ideas to get you started:
       <a href="https://www.linux.org/">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linux" />
       </a> -->
-      <br>Linux
     </td>
     <td align="center" width="96">
       <a href="https://docs.microsoft.com/en-us/powershell/">
