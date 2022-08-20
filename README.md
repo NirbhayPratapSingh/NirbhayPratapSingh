@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 <!-- [![Facebook Badge](https://img.shields.io/badge/Facebook--informational?style=flat&logo=facebook&logoColor=0e8ef1&color=green)](https://www.facebook.com/people/Arshad-Khan/100004164048208/) -->
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/NirbhayPratapSingh)
 [![Telegram Badge](https://img.shields.io/badge/Telegram--informational?style=flat&logo=Telegram&logoColor=white&color=slateblue)](https://t.me/Nirbhay_PratapSingh)
+- 👨‍💻 All my projects are available at my [Portfolio](https://portfolio-nirbhay.vercel.app/)
 <!-- [![Youtube Badge](https://img.shields.io/badge/Youtube--informational?style=flat&logo=youtube&logoColor=ff0000&color=darkslateblue)](https://www.youtube.com/channel/UCGK-satop1PZ9njUOYCzHJw) -->
 
 ### Skills
