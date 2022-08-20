@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 [![GitHub Badge](https://img.shields.io/badge/GitHub--informational?style=flat&logo=github&logoColor=white&color=blue)](https://github.com/NirbhayPratapSingh)
 [![Telegram Badge](https://img.shields.io/badge/Telegram--informational?style=flat&logo=Telegram&logoColor=white&color=slateblue)](https://t.me/Nirbhay_PratapSingh)
 <br/>
+<br/>
 👨‍💻 All my projects are available at my [Portfolio](https://portfolio-nirbhay.vercel.app/)
 <!-- [![Youtube Badge](https://img.shields.io/badge/Youtube--informational?style=flat&logo=youtube&logoColor=ff0000&color=darkslateblue)](https://www.youtube.com/channel/UCGK-satop1PZ9njUOYCzHJw) -->
 
